@@ -24,4 +24,5 @@ We deploy our code in Google Collaboratory environment. The [code](https://githu
 1. Pandas
 2. Numpy
 3. Scikit-learn
-4. Keras
+4. Matplotlib
+5. Keras
